@@ -2,4 +2,7 @@
 
 measuring fame using google trends
 
-(exported from ppp project)
+## dependancies
+
+- cabal
+- node, npm
